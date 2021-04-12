@@ -1,0 +1,11 @@
+# navigation
+alias ..="cd .."
+alias cd..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+
+# git status
+alias gs="git status"
+alias stat="git status"
+alias stats="git status"
+alias status="git status"
